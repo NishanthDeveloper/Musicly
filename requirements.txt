@@ -7,3 +7,4 @@ python-jose
 PyJWT
 cloudinary
 groq
+psycopg2
