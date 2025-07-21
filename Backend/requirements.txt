@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+bcrypt
+python-jose
+PyJWT
+cloudinary
+groq
+psycopg2
+python-multipart
